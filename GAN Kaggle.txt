@@ -1,0 +1,5 @@
+https://www.kaggle.com/c/generative-dog-images/notebooks?competitionId=15062&sortBy=voteCount
+
+https://www.kaggle.com/artgor/dcgan-baseline
+
+https://www.kaggle.com/jesucristo/gan-introduction
